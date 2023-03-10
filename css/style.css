@@ -39,4 +39,20 @@ a{
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    background-color: rgb(235, 118, 125);
+}
+a:hover{
+    color: black;
+    cursor: pointer;
+}
+#projects{
+    background-color: rgb(70, 143, 215);
+    text-align: center;
+    margin: 0;
+    padding: 10rem 2rem;
+    
+}
+#img{
+    width: 300px;
+    height: 300px;
 }
